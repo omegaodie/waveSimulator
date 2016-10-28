@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Boids.vcxproj, Formation.vcxproj, Swarm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  spring.cpp
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\spring.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\spring.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\spring.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\spring.cpp(102): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\spring.cpp(103): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\boid.h(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\boid.h(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\boid.h(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\documents\visual studio 2015\projects\project\formation\boids\main.cpp(60): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Pvector.cpp
+  Flock.cpp
+  Boid.cpp
+  Boids.vcxproj -> C:\Users\gameuser\Documents\Visual Studio 2015\Projects\project\Formation\Debug\ProofOfConcept.exe
+  Boids.vcxproj -> C:\Users\gameuser\Documents\Visual Studio 2015\Projects\project\Formation\Debug\ProofOfConcept.pdb (Full PDB)
